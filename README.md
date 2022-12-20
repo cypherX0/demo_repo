@@ -1,3 +1,3 @@
-#emaple_REPO
-hello world!
-creating this for learning GIT.
+# Exaple Repository
+
+This is sample repo, Hello World!
